@@ -2,11 +2,9 @@
 
 ### Hello world! This is José Antonio 👋
 
-Soy un programador backend con Java Spring Boot aunque ahora estoy aprendiendo a usar Angular y jQuery. Tengo como objetivo mejorar en todos los ámbitos de la informática y seguir aprendiendo 📚.
+Soy un programador fullStack con Java Spring Boot con conocimientos en Angular y jQuery. Tengo como objetivo mejorar en todos los ámbitos de la informática y seguir aprendiendo 📚.
 
-- 🔭 I’m currently working on **Getronics** as **Junior software Engineer**.
-
-- 🌱 I’m currently learning **Angular**, **Spring Boot**, **jQuery**.
+- 🔭 I’m currently working on **Getronics** as **Application developer**.
 
 ### Contact Me!
 
