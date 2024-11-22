@@ -1,31 +1,42 @@
-<img src="https://i.ibb.co/nwtzHf3/1658745161951.jpg" width="100%" alt="header" border="0" />
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-### Hello world! This is José Antonio 👋
+¡Bienvenido a mi perfil de GitHub! Soy un **Java Developer Junior** apasionado por el desarrollo de software de calidad y actualmente formo parte del equipo de **Globant**. Me encanta aprender nuevas tecnologías, resolver problemas complejos, y contribuir a proyectos que generan un impacto positivo.
 
-Soy un programador fullStack con Java Spring Boot con conocimientos en Angular y jQuery. Tengo como objetivo mejorar en todos los ámbitos de la informática y seguir aprendiendo 📚.
+---
 
-- 🔭 I’m currently working on **Getronics** as **Application developer**.
+## 🛠️ Tecnologías y Habilidades
 
-### Contact Me!
+- **Lenguajes de Programación**: Java, SQL, HTML, CSS, JavaScript
+- **Frameworks**: Spring Boot, Hibernate, JUnit, Angular
+- **Herramientas**: Git, Maven, IntelliJ IDEA, Docker
+- **Bases de Datos**: MySQL
+- **Metodologías**: Scrum, Agile
 
+Siempre estoy ampliando mis conocimientos, recientemente explorando **microservicios** y **desarrollo en la nube** con **AWS**.
 
-[<img src='https://raw.githubusercontent.com/proyectox123/proyectox123/master/images/icons/linkedin.png' alt='linkedin' height='32'>](https://www.linkedin.com/in/jose-antonio-fernandez-gonzalez/)
+---
 
-### Image References
+## 📚 Actualmente aprendiendo
 
-* <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+- **Microservicios** con Spring Cloud
+- **Patrones de diseño** avanzados
+- **Buenas prácticas** en Clean Code
 
-<!--
-**proyectox123/proyectox123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 Mis estadísticas de GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zefiro1)](https://github.com/zefiro1/github-readme-stats)
+
+---
+
+## 💬 ¿Hablamos?
+
+Si quieres colaborar en proyectos, discutir ideas, o simplemente charlar sobre tecnología, ¡contáctame!
+
+- **Correo**: [jantoniofgonzalez20@gmail.com](jantoniofgonzalez20@gmail.com)
+- **LinkedIn**: [linkedin.com/in/jose-antonio-fernandez-gonzalez]([https://linkedin.com/in/tuusuari](https://www.linkedin.com/in/jose-antonio-fernandez-gonzalez/))
+
+---
+
+¡Gracias por pasarte por aquí! 😊
