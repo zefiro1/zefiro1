@@ -26,8 +26,9 @@ Siempre estoy ampliando mis conocimientos, recientemente explorando **microservi
 
 ## 📈 Mis estadísticas de GitHub
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zefiro1)](https://github.com/zefiro1/github-readme-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zefiro1&show_icons=true&theme=gruvbox))](https://github.com/zefiro1/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zefiro1&show_icons=true&theme=gruvbox))](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zefiro1&show_icons=true&theme=gruvbox)](https://github.com/zefiro1/github-readme-stats)
 ---
 
 ## 💬 ¿Hablamos?
